@@ -3,6 +3,8 @@ This is a blog built with nextjs on the mern stack.
 
 This is not completed yet 
 
+This is the unstyled version, I figured I would include an unstyled version, so you can style how you wish, the styled version is linked below. 
+
 
 
 Instructions
